@@ -10,5 +10,5 @@ skills:
   - Fatigue Life Prediction
   - Material Selection
 
-main-image: /WingSparGeometry.jpg
+main-image: /WingSparGeometry.png
 ---
