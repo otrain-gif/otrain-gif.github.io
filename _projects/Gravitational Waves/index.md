@@ -8,5 +8,5 @@ Skills:
   - Systems Engineering
   - Astrophysics & Space Systems
   - Scientific Communication
-main-image: /VelocityContour.png 
+main-image: /Interferometer.png 
 ---
