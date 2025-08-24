@@ -10,5 +10,5 @@ skills:
   - Streamline and Velocity Contour Maps
   - Aerodynamic Performance
   - Thin Airfoil Theory
-main-image: /VelocityContour.png 
+main-image: /2VelocityContours.png 
 ---
